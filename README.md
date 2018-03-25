@@ -1,7 +1,7 @@
 # my-web
 This is a static web building with love.   
 
-To some what, I fall in love with a beautiful girl.
+To somewhat, I fall in love with a beautiful girl.
 and, a month later, her birthday is coming.
 
 so, I want to build a wonderful static web with HTML & css & javascript.
